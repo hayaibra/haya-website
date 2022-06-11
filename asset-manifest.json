@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/haya-website/static/js/main.385ccb8c.js",
+    "static/media/pexels-gustavo-fring-8770585.jpg": "/haya-website/static/media/pexels-gustavo-fring-8770585.422dd41af1d0c1c726e3.jpg",
+    "static/media/pexels-photo-5054092.jpeg": "/haya-website/static/media/pexels-photo-5054092.5f5e0894d70fa762137b.jpeg",
+    "static/media/pexels-photo-708440.jpeg": "/haya-website/static/media/pexels-photo-708440.4694761a63e1a595ca1b.jpeg",
+    "static/media/pexels-photo-1638324.jpeg": "/haya-website/static/media/pexels-photo-1638324.c9c0c7db94dcb6cfe89b.jpeg",
+    "static/media/pexels-photo-9713274.jpeg": "/haya-website/static/media/pexels-photo-9713274.c133fd7a50bbe4bfc558.jpeg",
+    "static/media/pexels-photo-804009.jpeg": "/haya-website/static/media/pexels-photo-804009.0cc65e978f781b444245.jpeg",
+    "static/media/pexels-photo.jpg": "/haya-website/static/media/pexels-photo.73a2011dddad6bbfee12.jpg",
+    "index.html": "/haya-website/index.html",
+    "main.385ccb8c.js.map": "/haya-website/static/js/main.385ccb8c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.385ccb8c.js"
+  ]
+}
